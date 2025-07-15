@@ -5,13 +5,13 @@
 Graduated with Distinction from the Faculty of Computers and Information, Menoufia University.
 
 ##  Tech Stack
-- 💙 Flutter & Dart
-- 🔥 Firebase (Auth, Firestore, Storage)
-- 🛠️ REST APIs | Local DB (Hive)
-- 🔄 State Management (Bloc/Cubit)
+-  Flutter & Dart
+-  Firebase (Auth, Firestore, Storage)
+-  REST APIs | Local DB (Hive)
+-  State Management (Bloc/Cubit)
 
 
-## 📱 Projects
+##  Projects
 - **RAHHAL (Graduation Project)** – Smart tourism app with AI-based hieroglyph translation, chatbot, booking services, and tourist info.  
   _Tech: Flutter, Dart, Python, SQL, REST API, Google Colab, Figma_
 
@@ -30,20 +30,20 @@ Graduated with Distinction from the Faculty of Computers and Information, Menouf
 - **Slice&Slice Restaurant App** – Restaurant app for menu browsing, order placement, and reservations.  
   _Tech: Flutter, Firebase, DB_
 
-## 📚 Training & Courses
+##  Training & Courses
 - **Digital Egypt Pioneers (DEPI):** Java, Android, Dart, Flutter, Soft Skills, English  
 - **ITI Summer Training:** Dart, Flutter, Database
 
-## 🛠 Tools
+##  Tools
 - Visual Studio Code
 - Postman
 - Android Studio
 - Git & GitHub
 
-## 📫 Let's Connect!
+##  Let's Connect!
 - ✉️ Email: shymaaalhawary213@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shaimaa-elhawary-337a14299/)  
 - 💻 [GitHub](https://github.com/shymaaelhawary1)
 
 
-> 👩‍💻 Always eager to build, learn, and grow as a Flutter Developer!
+>  Always eager to build, learn, and grow as a Flutter Developer!
